@@ -20,14 +20,14 @@ body{
     margin-left: 220px;
 }
 
-.list_title {
+.list_title{
     text-align: left;
     text-decoration: underline;
     color: black;
     margin-left: 225px;
 }
 
-.list_title a {
+.list_title a{
     color: black;
     text-decoration: inherit;
 }
@@ -36,6 +36,12 @@ body{
     text-align: justify;
     margin-left: 230px;
     margin-right: 200px;
+}
+
+.list_text a{
+    color: purple;
+    font-style: italic;
+    text-decoration: underline;
 }
 
 img {
@@ -55,11 +61,6 @@ img {
 .italized{
     font-style: italic;
     font-weight: lighter;
-    text-decoration: underline;
-}
-
-.visited{
-    font-style: italic;
     text-decoration: underline;
 }
 
