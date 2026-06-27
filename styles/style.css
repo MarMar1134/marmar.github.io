@@ -1,0 +1,69 @@
+body{
+    background-color: #43464b;
+    font-family: arial, serif;
+    font-size: 20px;
+}
+
+.title{
+    margin: auto;
+    text-align: center;
+}
+
+.title_text{
+    text-align: center;
+    margin-left: 30px;
+}
+
+.subtitle{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 220px;
+}
+
+.list_title {
+    text-align: left;
+    text-decoration: underline;
+    color: black;
+    margin-left: 225px;
+}
+
+.list_title a {
+    color: black;
+    text-decoration: inherit;
+}
+
+.list_text{
+    text-align: justify;
+    margin-left: 230px;
+    margin-right: 200px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+.image{
+    text-align: center;
+}
+
+.underlined{
+    text-decoration: underline;
+    font-weight: lighter;
+}
+
+.italized{
+    font-style: italic;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+
+.visited{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.bottom_text{
+    text-align: center;
+    padding: 60px;
+}
